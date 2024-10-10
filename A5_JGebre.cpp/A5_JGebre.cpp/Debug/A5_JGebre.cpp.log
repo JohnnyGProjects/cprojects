@@ -1,0 +1,5 @@
+﻿  A5_JGebre.cpp
+C:\Users\johnt\source\repos\A5_JGebre.cpp\A5_JGebre.cpp\A5_JGebre.cpp(27,2): warning C4805: '==': unsafe mix of type 'int' and type 'bool' in operation
+C:\Users\johnt\source\repos\A5_JGebre.cpp\A5_JGebre.cpp\A5_JGebre.cpp(28,2): warning C4805: '==': unsafe mix of type 'int' and type 'bool' in operation
+C:\Users\johnt\source\repos\A5_JGebre.cpp\A5_JGebre.cpp\A5_JGebre.cpp(30,2): warning C4805: '==': unsafe mix of type 'int' and type 'bool' in operation
+  A5_JGebre.cpp.vcxproj -> C:\Users\johnt\source\repos\A5_JGebre.cpp\Debug\A5_JGebre.cpp.exe
