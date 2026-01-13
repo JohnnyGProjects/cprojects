@@ -7,18 +7,6 @@ The program prompts the user to enter their own birthdate and a friend’s birth
 
 ---
 
-## Program Structure
-
-The project is organized into multiple source and header files for clarity and separation of concerns:
-
-├── main.c // Program entry point
-├── input.c // User input and validation
-├── input.h // Input function declarations
-├── zodiac.c // Zodiac logic and calculations
-├── zodiac.h // Zodiac data types and function declarations
-
----
-
 ## Features
 
 ### 📅 Date Input & Validation
